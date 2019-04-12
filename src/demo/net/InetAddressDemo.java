@@ -7,7 +7,6 @@ import java.io.InputStreamReader;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-import com.sun.jna.ptr.IntByReference;
 
 public class InetAddressDemo {
 	
